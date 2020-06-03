@@ -1,2 +1,2 @@
 # CmdTB
-Cmd Toolbox by Vitag
+Cmd Toolbox by Vitag.
