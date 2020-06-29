@@ -1,4 +1,4 @@
-print("YouTube:",youtube)import os, sys, random, webbrowser
+import os, sys, random, webbrowser
 
 youtube="https://rebrand.ly/VitagYouTube"
 website="https://vitagyt.tk"
