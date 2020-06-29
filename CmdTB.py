@@ -1,4 +1,4 @@
-import os, sys, random, webbrowser
+print("YouTube:",youtube)import os, sys, random, webbrowser
 
 youtube="https://rebrand.ly/VitagYouTube"
 website="https://vitagyt.tk"
@@ -16,10 +16,10 @@ def CmdTB():
     print("-> Github Repository : https://github.com/vitagyt/CmdTB <-")
     print("--------")
     print("About me")
-    print("YouTube: https://rebrand.ly/VitagYouTube")
-    print("Website: https://vitagyt.tk")
-    print("Twitter: https://rebrand.ly/VitagTwitter")
-    print("Discord: https://rebrand.ly/VitagDiscord")
+    print("YouTube:",youtube)
+    print("Website:",website)
+    print("Twitter:",twitter)
+    print("Discord:",discord)
     print("--------")
     print("Command Prompt : 0")
     print("Regedit : 1")
