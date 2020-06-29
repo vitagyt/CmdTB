@@ -26,7 +26,6 @@ def CmdTB():
     print("PowerShell : 2")
     print("Msinfo32 : 3")
     print("Exit : 4")
-    print("Press [ENTER] when you answered")
     print("--------")
     
     ask=int(input("Make your choice : "))
